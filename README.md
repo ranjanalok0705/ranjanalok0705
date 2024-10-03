@@ -14,7 +14,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/alok-ranjan-at555/">
-    <img src="" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Alok%20Ranjan-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-ranjan-at555/" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/ranjanalok0705" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
